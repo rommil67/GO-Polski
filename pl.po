@@ -676,7 +676,7 @@ msgstr "Poziom konkurencji:"
 
 #, c-format
 msgid "Config entry without any group at line %d"
-msgstr "Wpis konfiguracji bez powiązanej grupy w wierszu %d""
+msgstr "Wpis konfiguracji bez powiązanej grupy w wierszu %d"
 
 msgid ""
 "Copyright 2006 Milan Digital Audio LLC\n"
@@ -1057,7 +1057,7 @@ msgid "IEEE Float"
 msgstr "IEEE Float"
 
 msgid "Ignore pitch info in organ samples wav files"
-msgstr "Ignoruj ​​informacje dotyczące strojenia w plikach wav próbek organów""
+msgstr "Ignoruj informacje dotyczące strojenia w plikach wav próbek organów"
 
 msgid "Illegal combination of I/O devices"
 msgstr "Nieprawidłowa kombinacja urządzeń I / O"
